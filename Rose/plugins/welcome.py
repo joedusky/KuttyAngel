@@ -170,14 +170,14 @@ async def welcome(_, message: Message):
         if user_id == BOT_ID:
                 await message.reply_text(
                     f"""
-Thanks for adding me to your {group_name}! Don't forget follow
-my news channel @Theszrosebot.
+Thanks for adding me to your {group_name}! Don't forget to follow
+My Channel @Kutty_Angel_Bot_Channel.
 
 **New to Me, Touch the below button and start me in PM**
                     """,
                     reply_markup=InlineKeyboardMarkup(
             [
-                InlineKeyboardButton("quick start guide", url="http://t.me/szrosebot?start=help"),
+                InlineKeyboardButton("quick start guide", url="http://t.me/KuttyAngelXPlus_bot?start=help"),
             ]))
                 await app.send_message(
                 chat_id=LOG_GROUP_ID,
