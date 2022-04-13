@@ -14,7 +14,7 @@ async def plug(_, message):
 I'm a group management bot with some useful features.
 @Kutty_Angel_Bot_Group    
     """
-    await KuttyAngelXPlus_bot.edit_text(joedusky)
+    await KuttyAngelXPlus_bot.edit_text(Dusky Joe)
 
 __MODULE__ = "test"
 __HELP__ = """  
