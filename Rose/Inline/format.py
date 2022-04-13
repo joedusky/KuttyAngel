@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 text = """
 **Formatting**
 
-Rose supports a large number of formatting 
+Kutty Angel supports a large number of formatting 
 options to make your messages more expressive. Take a look!
 """
 
@@ -61,11 +61,10 @@ If you would like to send buttons on the same row, use the :same formatting. EG:
 </code>
 
 This will show button 1 and 2 on the same line, with 3 underneath.
-Alternatively, check out <a href='http://www.supun.ml/rose.html'>This Web site</a> to generate the button syntax for yoctx.
 
 - [note button](buttonurl://#notename): This syntax will allow you to 
 create a button which links to a note. When clicked, 
-the user will be redirected to Rose's PM to see the note.
+the user will be redirected to Kutty Angel's PM to see the note.
 """
 
 
@@ -127,7 +126,7 @@ hello
 how are you
 ```
 This will randomly choose between sending the first message, "hello", or the second message, "how are you".
- Use this to make Rose feel a bit more customised! (only works in notes/filters/greetings)
+ Use this to make Kutty Angel feel a bit more customised! (only works in notes/filters/greetings)
 **Example welcome message::**
 - Every time a new user joins, they'll be presented with one of the three messages shown here.
 -> ```
