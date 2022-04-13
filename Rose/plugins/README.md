@@ -1,4 +1,4 @@
-## Rose bot example plugin format here :
+## Kutty Angel example plugin format here :
 You can create your own custom plugin useing this format or use any [pyrogram](http://pyrogram.org) method !
 
 
