@@ -11,7 +11,7 @@ from pyrogram import Client
 from config.config import *
 import pymongo
 
-SUPPORT_GROUP = "https://t.me/slbotzone" #If you Don't Know Codes Any error Fixing method please Don't change this.... ):
+SUPPORT_GROUP = "https://t.me/Kutty_Angel_Bot_Group" #If you Don't Know Codes Any error Fixing method please Don't change this.... ):
 SUDOERS = SUDO_USERS_ID
 LOG_GROUP_ID = LOG_GROUP_ID
 MOD_LOAD = []
