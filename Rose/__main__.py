@@ -234,6 +234,8 @@ async def help_parser(name, keyboard=None):
 **Welcome to help menu**
 
 HI,I'm Kutty Angel group management bot with some useful features.
+You Can Choose an Options Below, By Clicking a Button.
+Developer:- @ONLY_DUSKY
 **All commands can be used with the following: / **""",
         keyboard,
     )
