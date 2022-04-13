@@ -93,8 +93,8 @@ home_keyboard_pm = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📓 Documentation",
-                url=f"https://szsupunma.gitbook.io/rose-bot/",
+                text="📓 Owner",
+                url=f"https://t.me/ONLY_DUSKY",
             )
         ],
         [
@@ -233,11 +233,7 @@ async def help_parser(name, keyboard=None):
 """
 **Welcome to help menu**
 
-I'm a group management bot with some useful features.
-You can choose an option below, by clicking a button.
-If you have any bugs or questions on how to use me, 
-have a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), or head to @szteambots.
-
+HI,I'm Kutty Angel group management bot with some useful features.
 **All commands can be used with the following: / **""",
         keyboard,
     )
